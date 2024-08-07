@@ -1,0 +1,8 @@
+{
+    "StartApp": {
+        "action": "StartApp",
+        "package": "com.lilithgame.igame.android.cn",
+        "next": []
+    },
+    "choose_account_3": {}
+}
